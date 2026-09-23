@@ -10,7 +10,7 @@ AI video generators fail in predictable ways: too many actions for a short clip,
 
 ## Example
 
-**Photo:** a girl standing on a beach at sunset, vertical 9:16.
+**Photo:** a girl standing on a beach at sunset, vertical 9:16
 
 **Request:**
 
